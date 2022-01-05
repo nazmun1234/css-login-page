@@ -1,0 +1,30 @@
+input{background-color: lightskyblue;}
+.register{
+    colour:white;
+}
+ select{background-color: lightskyblue;}
+
+
+ .register-form{
+     width: 500px;
+     margin: auto;
+     background-color: navy;
+     padding: 10px;
+     text-align: center;
+     color: oldlace;
+ }
+ 
+ #Register input{
+     width: 80%;
+     margin: 10px;
+     padding: 10px;
+ }
+
+ input:hover{
+     background-color: silver;
+ }
+
+ input:focus{
+     background-color: springgreen;
+ }
+

@@ -1,0 +1,41 @@
+.Forget-password{
+    width: 350px;
+    background-color: mediumorchid;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    color: rgb(236, 175, 238);}
+
+    .Forget-password h3{
+        font-size: 25px;
+    }
+#Forget-password input{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+
+#Forget-password input:focus{
+    background-color: seagreen;
+}
+
+#Forget-password .btn:hover{
+    background-color: darkred;
+}
+
+#Forget-password .bck:hover{
+    background-color: darkred;
+}
+
+#Forget-password .btn{
+    width: 30%;
+}
+
+#Forget-password .bck{
+    width:30%;
+}
+
+.forget{
+    color:white;
+}

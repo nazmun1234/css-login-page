@@ -1,0 +1,38 @@
+input{background-color: blue;}
+
+.Login-Form{
+    width: 500px;;
+    background-color:forestgreen;
+    margin: auto;
+    padding: 25px;
+    border: 1px solid black;
+    text-align: center;
+    color: maroon;}
+
+#login-form input{
+    width: 90%;
+    margin: 10px;
+    padding: 10px;
+}
+
+#login-form input:focus{
+    background-color: cyan;
+}
+
+#login-form .btn{
+    width: 30%;
+    background-color: blue;
+}
+
+#login-form .btn:hover{
+    background-color: cyan;
+    transition: each-in-out 0.8s;
+    cursor: pointer;
+}
+
+.Login-Form a{
+    colour:rgb(139, 0, 0);
+}
+.forget,.register{
+    color:maroon
+}
